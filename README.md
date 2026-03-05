@@ -1,7 +1,8 @@
 # TRAE MCPs
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+![alt text](assets/images/MCP.gif)
 
 [中文](./README.zh-CN.md)
 
@@ -72,7 +73,7 @@ We welcome and appreciate community contributions! If you have developed a new M
 
 1. Read the [Contribution Guidelines](./CONTRIBUTING.md).
 2. Fork this repository and create a new branch.
-3. Add your recommended MCP server information to the **MCP Server List** section in `README.md`.
+3. Add your recommended MCP server information to the [**MCP Server List**](https://github.com/trae-community/trae-mcp?tab=readme-ov-file#-mcp-server-list) section in `README.md`.
 4. Ensure a detailed Description, Status, and Documentation are included.
 5. Submit a Pull Request.
 

@@ -5,7 +5,7 @@
 ## 创建新 MCP
 
 1. Fork 本仓库并创建一个新的分支。
-2. README.md 中【## 📦 MCP 服务器列表】板块添加您推荐的 MCP 服务器信息。
+2. README.md 中[**MCP 服务列表**](https://github.com/trae-community/trae-mcp?tab=readme-ov-file#-mcp-server-list)板块添加您推荐的 MCP 服务器信息。
 3. 确保包含详细的 描述、状态、文档 说明。
 4. 提交 Pull Request。
 

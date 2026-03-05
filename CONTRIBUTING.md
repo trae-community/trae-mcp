@@ -5,7 +5,7 @@ PRs are welcome. We recommend keeping each MCP "small and specialized" and ensur
 ## Create a New MCP
 
 1. Fork this repository and create a new branch.
-2. Add your recommended MCP server information to the **MCP Server List** section in `README.md`.
+2. Add your recommended MCP server information to the [**MCP Server List**](https://github.com/trae-community/trae-mcp?tab=readme-ov-file#-mcp-server-list) section in `README.md`.
 3. Ensure detailed Description, Status, and Documentation are included.
 4. Submit a Pull Request.
 

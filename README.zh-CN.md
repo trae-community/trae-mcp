@@ -1,7 +1,8 @@
 # TRAE MCPs
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+![alt text](assets/images/MCP.gif)
 
 **TRAE MCPs** 是一个由社区维护的 [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) 服务器集合，专为 **TRAE** 编辑器打造。
 
@@ -28,7 +29,7 @@
 - **社区驱动**：汇聚社区开发者的智慧，持续扩充工具库。
 - **标准统一**：遵循 MCP 标准协议，确保兼容性和稳定性。
 
-## 📦 MCP 服务器列表
+## 📦 MCP 服务列表
 
 | MCP 名称 | 描述 | 状态 | 文档 |
 | :--- | :--- | :--- | :--- |
@@ -70,7 +71,7 @@
 
 1. 阅读 [贡献指南](./CONTRIBUTING.md)。
 2. Fork 本仓库并创建一个新的分支。
-3. README 中【## 📦 MCP 服务器列表】板块添加您推荐的 MCP 服务器信息。
+3. README 中[**MCP 服务列表**](https://github.com/trae-community/trae-mcp?tab=readme-ov-file#-mcp-server-list)板块添加您推荐的 MCP 服务器信息。
 4. 确保包含详细的 描述、状态、文档 说明。
 5. 提交 Pull Request。
 
