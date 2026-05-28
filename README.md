@@ -35,7 +35,8 @@ In TRAE, configured MCP servers serve as callable **Tools** for the agent. The a
 
 | MCP Name | Description | Status | Documentation |
 | :--- | :--- | :--- | :--- |
-| (To be added) | More MCP servers are under development... | 🚧 | - |
+| mgc-blackbox | A trusted local encrypted execution boundary for AI agents. | Stable | https://github.com/zkeviny/MGC-Blackbox |
+
 
 *(The repository is currently initializing. PRs to contribute your recommended MCPs are welcome!)*
 
