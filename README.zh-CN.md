@@ -33,6 +33,7 @@
 
 | MCP 名称 | 描述 | 状态 | 文档 |
 | :--- | :--- | :--- | :--- |
+| [CloudBase](./mcp/cloudbase/README.md) | 腾讯云开发 CloudBase MCP — AI 模型、登录鉴权、数据库、云函数、云存储、云托管（`npx @cloudbase/cloudbase-mcp`） | ✅ 可用 | [README](./mcp/cloudbase/README.md) |
 | (待添加) | 更多 MCP 服务器正在开发中... | 🚧 | - |
 
 *(目前仓库正在初始化中，欢迎提交 PR 贡献您推荐的 MCP！)*
