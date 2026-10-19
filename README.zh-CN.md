@@ -34,6 +34,7 @@
 | MCP 名称 | 描述 | 状态 | 文档 |
 | :--- | :--- | :--- | :--- |
 | [CloudBase](./mcp/cloudbase/README.md) | 腾讯云开发 CloudBase MCP — AI 模型、登录鉴权、数据库、云函数、云存储、云托管（`npx @cloudbase/cloudbase-mcp`） | ✅ 可用 | [README](./mcp/cloudbase/README.md) |
+| [9bot](https://github.com/9-bot/mcp) | 管理、自动化和分析 WhatsApp 群组、社区和频道：内容审核、反垃圾、定时消息、成员管理和数据分析。支持 OAuth 的远程 MCP 服务器（Streamable HTTP：`https://mcp.9bot.com.br/mcp`）。配置示例：`{"mcpServers":{"9bot":{"type":"streamable-http","url":"https://mcp.9bot.com.br/mcp"}}}`，提示时使用您的 9bot 账号登录。 | ✅ 可用 | [README](https://github.com/9-bot/mcp) · [官网](https://9bot.com.br/en/) |
 | (待添加) | 更多 MCP 服务器正在开发中... | 🚧 | - |
 
 *(目前仓库正在初始化中，欢迎提交 PR 贡献您推荐的 MCP！)*

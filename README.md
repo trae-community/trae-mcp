@@ -36,6 +36,7 @@ In TRAE, configured MCP servers serve as callable **Tools** for the agent. The a
 | MCP Name | Description | Status | Documentation |
 | :--- | :--- | :--- | :--- |
 | [CloudBase](./mcp/cloudbase/README.md) | Tencent CloudBase MCP — AI models, auth, databases, cloud functions, storage, CloudRun (`npx @cloudbase/cloudbase-mcp`) | ✅ Ready | [README](./mcp/cloudbase/README.md) |
+| [9bot](https://github.com/9-bot/mcp) | Manage, automate and analyze WhatsApp groups, communities and channels: moderation, anti-spam, scheduled messages, members and analytics. Remote MCP server with OAuth (Streamable HTTP: `https://mcp.9bot.com.br/mcp`). Example config: `{"mcpServers":{"9bot":{"type":"streamable-http","url":"https://mcp.9bot.com.br/mcp"}}}`, then sign in with your 9bot account when prompted. | ✅ Ready | [README](https://github.com/9-bot/mcp) · [Website](https://9bot.com.br/en/) |
 | (To be added) | More MCP servers are under development... | 🚧 | - |
 
 *(The repository is currently initializing. PRs to contribute your recommended MCPs are welcome!)*
