@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "tomc": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "--from",
+        "tomc-memory[mcp] @ https://github.com/ZipengWu365/TOMC/archive/3951794d19c9c6d22920997434aa44c54b76abf9.zip",
+        "tomc",
+        "mcp"
+      ]
+    }
+  }
+}
