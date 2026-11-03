@@ -1,6 +1,6 @@
-# objekts Production Desk
+# KOUNT by objekts (Production Desk)
 
-**objekts Production Desk** 是由视觉制作工作室 [objekts](https://objekts.ai/) 开发的远程 MCP 服务，面向 AI/VFX、CGI/3D、Motion、Animation、广告制作、影视 VFX、本地化/版本化以及广告代理公司的制作支持。
+**KOUNT by objekts (Production Desk)** 是由视觉制作工作室 [objekts](https://objekts.ai/) 开发的远程 MCP 服务，面向 AI/VFX、CGI/3D、Motion、Animation、广告制作、影视 VFX、本地化/版本化以及广告代理公司的制作支持。
 
 它的核心用途是 **production preflight / 制作预检**，而不是通用创意提示词生成。
 
@@ -26,7 +26,9 @@ https://mcp.objekts.ai/mcp
 }
 ```
 
-该服务使用 Streamable HTTP。
+该服务使用 Streamable HTTP。配置中的 `objekts-production-desk` 技术标识保持不变。
+
+**兼容性说明（有日期的测试）**：2026 年 10 月 17 日，发行方的外部探针在 MCP `2025-11-25` 协议下完成了 `initialize` 与 `tools/list`；`2026-07-28` 在该次测试返回 HTTP 400。**尚未验证 TRAE 客户端的真实连接**，因此不能仅凭公开 URL 宣称兼容。[测试来源与限制](https://github.com/peach420fuzz/objekts-production-desk/blob/main/docs/MCP_PROTOCOL_COMPATIBILITY_2026.md)。
 
 ## 主要能力
 
