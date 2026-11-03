@@ -1,6 +1,6 @@
-# objekts Production Desk
+# KOUNT by objekts (Production Desk)
 
-**objekts Production Desk** is a hosted remote MCP server built by [objekts](https://objekts.ai/), a visual-production studio working across AI/VFX, CGI/3D, motion, animation, advertising, film/series VFX, localization/versioning and production support for agencies.
+**KOUNT by objekts (Production Desk)** is a hosted remote MCP server built by [objekts](https://objekts.ai/), a visual-production studio working across AI/VFX, CGI/3D, motion, animation, advertising, film/series VFX, localization/versioning and production support for agencies.
 
 It is designed for **production preflight**, not generic creative prompting.
 
@@ -26,7 +26,9 @@ Add the server manually in TRAE MCP settings:
 }
 ```
 
-The server uses Streamable HTTP.
+The server uses Streamable HTTP. The `objekts-production-desk` identifier in the JSON configuration is **unchanged**.
+
+**Compatibility note (dated):** An external publisher probe on 17 October 2026 verified MCP `initialize` and `tools/list` with protocol `2025-11-25`. Protocol `2026-07-28` returned HTTP 400 in that probe. A direct TRAE host/client connection test has **not** been demonstrated; do not infer support from the remote URL alone. [Evidence and limitations](https://github.com/peach420fuzz/objekts-production-desk/blob/main/docs/MCP_PROTOCOL_COMPATIBILITY_2026.md).
 
 ## What it does
 
