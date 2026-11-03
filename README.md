@@ -36,6 +36,7 @@ In TRAE, configured MCP servers serve as callable **Tools** for the agent. The a
 | MCP Name | Description | Status | Documentation |
 | :--- | :--- | :--- | :--- |
 | [CloudBase](./mcp/cloudbase/README.md) | Tencent CloudBase MCP — AI models, auth, databases, cloud functions, storage, CloudRun (`npx @cloudbase/cloudbase-mcp`) | ✅ Ready | [README](./mcp/cloudbase/README.md) |
+| [KOUNT by objekts](./mcp/objekts-production-desk/README.md) | Production preflight for AI/VFX, CGI, motion, animation and commercial visual production via hosted Streamable HTTP MCP | 🔎 TRAE integration not verified | [README](./mcp/objekts-production-desk/README.md) |
 | (To be added) | More MCP servers are under development... | 🚧 | - |
 
 *(The repository is currently initializing. PRs to contribute your recommended MCPs are welcome!)*
