@@ -36,6 +36,7 @@ In TRAE, configured MCP servers serve as callable **Tools** for the agent. The a
 | MCP Name | Description | Status | Documentation |
 | :--- | :--- | :--- | :--- |
 | [CloudBase](./mcp/cloudbase/README.md) | Tencent CloudBase MCP — AI models, auth, databases, cloud functions, storage, CloudRun (`npx @cloudbase/cloudbase-mcp`) | ✅ Ready | [README](./mcp/cloudbase/README.md) |
+| [PipiAds](https://github.com/pipiads-dev/pipiads-mcp-server) | Research TikTok and Facebook ads using a PipiAds API key and credits. For example, find a US TikTok ad for phone cases and return its source. | ✅ Ready | [Setup and usage](https://github.com/pipiads-dev/pipiads-mcp-server#connect-the-data-source) |
 | (To be added) | More MCP servers are under development... | 🚧 | - |
 
 *(The repository is currently initializing. PRs to contribute your recommended MCPs are welcome!)*

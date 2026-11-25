@@ -34,6 +34,7 @@
 | MCP 名称 | 描述 | 状态 | 文档 |
 | :--- | :--- | :--- | :--- |
 | [CloudBase](./mcp/cloudbase/README.md) | 腾讯云开发 CloudBase MCP — AI 模型、登录鉴权、数据库、云函数、云存储、云托管（`npx @cloudbase/cloudbase-mcp`） | ✅ 可用 | [README](./mcp/cloudbase/README.md) |
+| [PipiAds](https://github.com/pipiads-dev/pipiads-mcp-server) | 使用 PipiAds API 密钥和账户点数查询 TikTok 和 Facebook 广告。例如，查找一条美国市场的手机壳 TikTok 广告并返回来源。 | ✅ 可用 | [配置与用法](https://github.com/pipiads-dev/pipiads-mcp-server#connect-the-data-source) |
 | (待添加) | 更多 MCP 服务器正在开发中... | 🚧 | - |
 
 *(目前仓库正在初始化中，欢迎提交 PR 贡献您推荐的 MCP！)*
